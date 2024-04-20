@@ -33,7 +33,6 @@ Note: Ensure that the file containing authorized devices contains each device's 
 ## Example of authorized devices file
 
 An example of an authorized devices file (authorized_devices.txt) would be: 
-   ```sh
    192.168.1.1
    192.168.1.2
    192.168.1.3
