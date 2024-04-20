@@ -12,7 +12,7 @@ Using advanced techniques, NetSweeper conducts comprehensive scans of your netwo
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Elinvicto/NetSweeper.git
+   git clone https://github.com/Elinvicto/NetSweeper-Network-Rogue-Device-Detector.git
 
 2. Install the required dependencies:
    ```sh
